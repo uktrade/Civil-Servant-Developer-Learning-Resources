@@ -16,7 +16,6 @@
 ### Beginner 👶
 
 * Colt Steele, The Web Developer Bootcamp - https://www.udemy.com/user/coltsteele/
-* Colt Steele, The Modern Python 3 Bootcamp - https://www.udemy.com/user/coltsteele/
 * Civil Service Coding Course - https://ddatlearntocode.netlify.com/
 * Learn Python the Hard Way - [book](https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=pd_sim_14_2/259-2932589-9826438?_encoding=UTF8&pd_rd_i=0134692888&pd_rd_r=7e445ed2-9d27-4fe9-a993-b80baca3e763&pd_rd_w=CX9la&pd_rd_wg=Vdjwf&pf_rd_p=1b8636ae-4f21-4403-a813-e8849dd46de4&pf_rd_r=0KP9VXVBYZB1Y63ZMKA9&psc=1&refRID=0KP9VXVBYZB1Y63ZMKA9)
 
@@ -37,15 +36,36 @@
 * Wes Bos, Advanced React - www.wesbos.com
 
 ### PluralSight
-These courses require a Pluralsight license
+Note that these courses require a Pluralsight license for access to these courses
 
 #### JavaScript
-* Mark Zamoyta, JavaScript: Getting Started - https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents
-* Mark Zamoyta, JavaScript Fundamentals - https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents
+* [Mark Zamoyta, JavaScript: Getting Started](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+* [Mark Zamoyta, JavaScript Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
 
 #### React
-* Cory House, React: The Big Picture - https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents
-* Samer Buna, React: Getting Started - https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
-* Liam McLennan, React Fundamentals - https://app.pluralsight.com/library/courses/react-fundamentals-update/table-of-contents
-* Peter Kellner, Using React Hooks - https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
-* Cory House, Building Applications With React And Redux - https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
+* [Cory House, React: The Big Picture](https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents)
+* [Samer Buna, React: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
+* [Liam McLennan, React Fundamentals](https://app.pluralsight.com/library/courses/react-fundamentals-update/table-of-contents)
+* [Peter Kellner, Using React Hooks](https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents)
+* [Cory House, Building Applications With React And Redux](https://app.pluralsight.com/library/courses/react-redux-react-router-es6)
+
+### Udemy
+Note that you will need to be set up in Passman to access the credentials for these courses
+
+#### JavaScript
+* [Joseph Delgadillo and Nick Germaine, The Complete Front-End Web Development Course](https://www.udemy.com/course/front-end-web-development)
+* [Joseph Delgadillo and Nick Germaine, The Complete Full-Stack JavaScript Course](https://www.udemy.com/course/full-stack-javascript/)
+
+#### Python
+* [Ajay Tech, Python Programming Beginners Tutorial](https://www.udemy.com/course/a-laymans-guide-to-python/)
+* [Colt Steele, The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+* [Joseph Delgadillo, The Complete Python Hacking Course: Beginner to Advanced!](https://www.udemy.com/course/ethical-hacking-python/)
+* [Mark Winterbottom and Brooker Rutherford, Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
+* [Sujithkumar MA, The Complete Python Programmer: From Scratch to Applications](https://www.udemy.com/course/the-complete-python-programmer-from-scratch-to-applications/)
+
+#### Other topics
+* [Chandan Kumar, Java For Everyone](https://www.udemy.com/course/java-for-everyone-zero-to-hero/)
+* [Joseph Delgadillo, The Complete Ethical Hacking Course](https://www.udemy.com/course/ethical-hacking-professional/)
+* [Start-Tech Academy, Complete Machine Learning with R Studio - ML for 2020](https://www.udemy.com/course/machine-learning-with-r-studio/)
+* [Start-Tech Academy, Deep Learning with Keras and Tensorflow in Python and R](https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/)
+* [Start-Tech Academy - Google Data Studio A-Z for Data Visualization and Dashboards](https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/)
