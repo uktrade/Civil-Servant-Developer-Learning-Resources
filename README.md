@@ -36,7 +36,7 @@
 * Wes Bos, Advanced React - www.wesbos.com
 
 ### PluralSight
-Note that these courses require a Pluralsight license for accessfor access to these courses
+Note that these courses require a Pluralsight license for access to these courses
 
 #### JavaScript
 * [Mark Zamoyta, JavaScript: Getting Started](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
